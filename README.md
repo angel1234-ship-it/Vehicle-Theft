@@ -159,9 +159,8 @@ Developed 36 business questions and solved them using advanced SQL techniques.
 
 | File Type             | Description              | Link              |
 | --------------------- | ------------------------ | ----------------- |
-| 📊 Power BI Dashboard | Interactive `.pbix` file | [Open](your-link) |
-| 📄 Report             | Detailed project report  | [View](your-link) |
-| 📽 Presentation       | Project summary slides   | [View](your-link) |
+| 📄 Report             | Detailed project report  | [View](https://github.com/angel1234-ship-it/Vehicle-Theft/blob/main/Vehicle_Theft%20_Dashboard_PowerBI_Project.pdf) |
+| 📜 SQL Queries    | All 36 business queries    | [View](your-link) |
 
 ---
 
