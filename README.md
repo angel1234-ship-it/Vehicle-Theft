@@ -57,12 +57,13 @@ Developed 36 business questions and solved them using advanced SQL techniques.
 * Interactive slicers and filters
 * Drill-down capabilities
 * Cross-filtering between visuals
-* Tooltips for additional insights
+* Tooltips for additional insights 
 * Multiple analysis pages:
 
   * Overview
   * Vehicle Analysis
   * Location Analysis
+*⭐ Used Power BI bookmarks and buttons to create a dynamic filter panel, allowing users to toggle slicers (Year, Vehicle type, Maker's name and Region) on demand while maintaining a clean dashboard layout 
 
 ---
 
