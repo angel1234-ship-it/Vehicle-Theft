@@ -63,7 +63,8 @@ Developed 36 business questions and solved them using advanced SQL techniques.
   * Overview
   * Vehicle Analysis
   * Location Analysis
-*⭐ Used Power BI bookmarks and buttons to create a dynamic filter panel, allowing users to toggle slicers (Year, Vehicle type, Maker's name and Region) on demand while maintaining a clean dashboard layout 
+    
+⭐ Used Power BI bookmarks and buttons to create a dynamic filter panel, allowing users to toggle slicers (Year, Vehicle type, Maker's name and Region) on demand while maintaining a clean dashboard layout 
 
 ---
 
