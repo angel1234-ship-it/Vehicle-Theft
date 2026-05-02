@@ -25,7 +25,7 @@ Developed 36 business questions and solved them using advanced SQL techniques.
 
 ### 🔹 SQL Concepts Used
 - Common Table Expressions (CTEs)
-- Window Functions (ROW_NUMBER, RANK, etc.)
+- Window Functions (ROW_NUMBER,DENSE_RANK,RANK, etc.)
 - Aggregate Functions (SUM, AVG, COUNT)
 - GROUP BY and filtering
 - Joins for combining multiple datasets
@@ -161,7 +161,7 @@ Developed 36 business questions and solved them using advanced SQL techniques.
 | File Type             | Description              | Link              |
 | --------------------- | ------------------------ | ----------------- |
 | 📄 Report             | Detailed project report  | [View](https://github.com/angel1234-ship-it/Vehicle-Theft/blob/main/Vehicle_Theft%20_Dashboard_PowerBI_Project.pdf) |
-| 📜 SQL Queries    | All 36 business queries    | [View](your-link) |
+| 📜 SQL Queries    | All 36 business queries    | [View](https://github.com/angel1234-ship-it/Vehicle-Theft/blob/main/project.sql) |
 
 ---
 
